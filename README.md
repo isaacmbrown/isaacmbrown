@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details><summary>CLICK ME</summary>
+<details open><summary>CLICK ME</summary>
 <p>
 
 #### We can hide anything, even code!
