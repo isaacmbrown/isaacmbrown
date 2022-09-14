@@ -42,3 +42,8 @@ graph TD;
     B-->D;
     C-->D;
 ```
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
