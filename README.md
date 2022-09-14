@@ -44,6 +44,6 @@ graph TD;
 ```
 
 
-
+|---|---|
 | My languages  | Content Cell  |
 | My hobbies  | Content Cell  |
